@@ -41,7 +41,7 @@ if (mediaQuery.matches) {
       delay: 0.5 * index,
       scrollTrigger: {
         trigger: element,  
-        start: "top 80%",  
+        start: "top 70%",  
         end: "top 30%",   
     },
     });
